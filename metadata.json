@@ -1,0 +1,6 @@
+{
+  "name": "Eldorado Furniture",
+  "description": "مبلمان الدورادو - کاتالوگ مدرن و دوزبانه محصولات مبل ال، مبل هفت نفره و مبل تک به همراه شخصی‌ساز رنگ و سفارش آنلاین",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
